@@ -1,4 +1,4 @@
-# BellaBeat Exploratory Data Analysis
+# BellaBeat Exploratory Data Analysis with Python
 
 ![1_SjEGKrjDp7skk4URhzW5Nw](https://github.com/karlyndiary/BellaBeat-EDA/assets/116041695/38520129-fd4f-437b-84f2-43e7dbacbb7b)
 
